@@ -120,6 +120,7 @@
   justify-content: start;
   font-family: sans-serif;
   font-size: 20px;
+  font-weight: bold;
 }
 
 .card-text3{
@@ -127,6 +128,21 @@
   justify-content: start;
   font-family: sans-serif;
   font-size: 20px;
+}
+
+.card1{
+  width: 100%;
+  padding: 30px;
+  align-self: auto;
+  font-family: sans-serif;
+  background-color: gainsboro;
+}
+
+.card-subtitle1{
+  display: flex;
+  justify-content: start;
+  font-family: sans-serif;
+  font-size: 30px;
 }
 
 

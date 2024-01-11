@@ -145,6 +145,34 @@
   font-size: 30px;
 }
 
+.card-text4{
+  display: flex;
+  justify-content: start;
+  font-family: sans-serif;
+  font-size: 20px;
+}
+
+.card-link{
+  font-family: sans-serif;
+}
+
+.card-link2{
+  font-family: sans-serif;
+}
+.card-title4{
+  display: flex;
+  justify-content: start;
+  font-family: sans-serif;
+  font-size: 45px;
+}
+
+
+.card-img-top{
+  width: 200px;
+  height: 250px;
+}
+
+
 
 
   
